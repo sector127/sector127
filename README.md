@@ -90,7 +90,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
+      src="[https://cdn.worldvectorlogo.com/logos/adobe-xd.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg)"
       alt="xd"
       width="40"
       height="40"
